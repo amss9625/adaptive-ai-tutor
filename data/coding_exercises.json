@@ -1,0 +1,10 @@
+{
+  "exercises": [
+    {
+      "id": "recursion_01",
+      "question": "Write a function that calculates factorial of n using recursion.",
+      "difficulty": 2,
+      "hints": ["Remember the base case", "Factorial(n) = n * Factorial(n-1)"]
+    }
+  ]
+}
